@@ -1,6 +1,6 @@
 # Social network
 
-<a href="">Deploy link</a>
+is not finished
 
 # Technology stack
 
