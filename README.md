@@ -2,6 +2,6 @@
 
 is not finished
 
-# Technology stack
+## Technology stack
 
 Webpack, Redux, React, Router, TypeScript, JavaScript, HTML, CSS
